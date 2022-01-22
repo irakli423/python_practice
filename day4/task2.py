@@ -1,1 +1,0 @@
-print("axla davaapdeitebt githubis proeqts")
