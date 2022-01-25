@@ -1,0 +1,31 @@
+h1.witeli1 {
+  border-style: solid;
+  color: red;
+  border-width: 30px;
+  border-radius: 20px;
+}
+
+h2.lurji1 {
+  border-style: solid;
+  color: blue;
+  border-width: 15px;
+  border-radius: 15px;
+}
+p.mwvane1 {
+  border-style: solid;
+  color: green;
+  border-width: 7.5px;
+  border-bottom: 6px;
+  border-radius: 7.5px;
+}
+b.shavi1 {
+    border-width: 5px;
+  border-style: solid;
+  color: black;
+  border-radius: 5px;
+}
+#yviteli {
+  border-style: solid;
+  color: yellow;
+  border-width: 15px;
+}
